@@ -31,11 +31,11 @@
    ```bash
    git clone https://github.com/yourusername/librochain.git
    cd librochain
-2. ** Install Dependencies:**
+2. Install Dependencies:
    ```bash
    
    npm install
-3. **Run the Application**
+3. Run the Application
 ```bash
 
    npm start
