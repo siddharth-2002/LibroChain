@@ -24,3 +24,10 @@
    ```bash
    git clone https://github.com/yourusername/librochain.git
    cd librochain
+   
+2.  **Install Dependencies::**
+   ```bash
+   npm install
+
+
+   
